@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "Fake-News-Detection\\README.md": true,
+    "Fake-News-Detection\\LICENSE": true,
+    "Fake-News-Detection\\fakenewspicture.jpg": true,
+    "Fake-News-Detection\\fakenewsphoto.jpg": true,
+    "Fake-News-Detection\\CODE_OF_CONDUCT.md": true,
+    "Fake-News-Detection\\stockphoto.jpg": true,
+    "Fake-News-Detection\\Fake News Detection.pdf": true
+  }
+}
